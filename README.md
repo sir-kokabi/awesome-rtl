@@ -10,7 +10,7 @@ A curated list of tools supporting right-to-left (RTL) languages.
 - [Whatsapp](https://www.whatsapp.com/) - Free messaging app that allows users to send and receive text, voice, and video messages, as well as media files.
 
 ## Social Networks
-- [X](https://twitter.com/) - Social media platform that allows users to post short messages.
+- [X](https://x.com/) - Social media platform that allows users to post short messages.
 
 ## CSS Frameworks
 - [Bootstrap](https://getbootstrap.com/) - Powerful, extensible, and feature-packed frontend toolkit.
