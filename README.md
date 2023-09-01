@@ -15,3 +15,10 @@ A curated list of tools supporting right-to-left (RTL) languages.
 
 ## CSS Frameworks
 - [Bootstrap](https://getbootstrap.com/) - Powerful, extensible, and feature-packed frontend toolkit.
+
+## UI Design Tools
+- [Figma](https://www.figma.com/) - Free, browser-based and collaborative design tool for user interfaces.
+- [Penpot](https://penpot.app/) - Free, open-source design and prototyping platform for product teams.
+
+## Version Controls
+- [Github](https://github.com/) - web-based platform for version control using git.
