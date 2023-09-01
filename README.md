@@ -1,5 +1,5 @@
 # awesome-rtl
-A curated list of tools supporting right-to-left (RTL) languages.
+A curated list of tools with **built-in** support for right-to-left (RTL) languages.
 
 ## Text and Source Code Editors
 - [MarkText](https://www.marktext.cc/) - A simple and elegant markdown editor, available for Linux, macOS and Windows.
