@@ -11,6 +11,7 @@ A curated list of tools supporting right-to-left (RTL) languages.
 
 ## Social Networks
 - [X](https://x.com/) - Social media platform that allows users to post short messages.
+- [Instagram](https://www.instagram.com/) - Photo and video sharing social networking service.
 
 ## CSS Frameworks
 - [Bootstrap](https://getbootstrap.com/) - Powerful, extensible, and feature-packed frontend toolkit.
