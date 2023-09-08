@@ -1,6 +1,21 @@
 # awesome-rtl
 A curated list of tools with **built-in** support for right-to-left (RTL) languages.
 
+# Table of Contents
+- [awesome-rtl](#awesome-rtl)
+  - [Rules for Introducing RTL Support Tools](#rules-for-introducing-rtl-support-tools)
+  - [Text and Code Editors](#text-and-code-editors)
+  - [Messengers](#messengers)
+  - [Social Networks](#social-networks)
+  - [CSS Frameworks](#css-frameworks)
+  - [UI Design Tools](#ui-design-tools)
+  - [Version Controls](#version-controls)
+
+## Rules for Introducing RTL Support Tools
+
+Only introduce tools that have either built-in support for RTL or official plugins.
+Do not introduce tools that rely on unofficial plugins, as they may be discontinued and cause RTL support to be dropped for new versions of the software.
+
 ## Text and Code Editors
 - [MarkText](https://www.marktext.cc/) - A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [Notepad++](https://notepad-plus-plus.org/downloads/) - Free and open-source text and source code editor for Microsoft Windows.
