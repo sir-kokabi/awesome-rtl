@@ -13,8 +13,8 @@ A curated list of tools with **built-in** support for right-to-left (RTL) langua
 
 ## Rules for Introducing RTL Support Tools
 
-Only introduce tools that have either built-in support for RTL or official plugins.
-Do not introduce tools that rely on unofficial plugins, as they may be discontinued and cause RTL support to be dropped for new versions of the software.
+- Only introduce tools that have **built-in RTL support** or **official plugins**. Unofficial plugins are not accepted due to the risk of discontinuation, which could result in the loss of RTL support.
+- Avoid introducing tools designed exclusively for local audiences in RTL language countries, unless they have international usability and include English language support.
 
 ## Text and Code Editors
 - [MarkText](https://www.marktext.cc/) - A simple and elegant markdown editor, available for Linux, macOS and Windows.
