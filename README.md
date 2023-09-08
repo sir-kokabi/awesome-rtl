@@ -14,7 +14,7 @@ A curated list of tools with **built-in** support for right-to-left (RTL) langua
 
 ## Contributing
 
-Please take a quick gander at the contribution guidelines first. Thanks to all [contributors](https://github.com/sir-kokabi/awesome-rtl/graphs/contributors); you rock!
+Please take a quick gander at the [contribution](https://github.com/sir-kokabi/awesome-rtl/blob/main/CONTRIBUTING.md) guidelines first. Thanks to all [contributors](https://github.com/sir-kokabi/awesome-rtl/graphs/contributors); you rock!
 
 ## Text and Code Editors
 - [MarkText](https://www.marktext.cc/) - A simple and elegant markdown editor, available for Linux, macOS and Windows.
