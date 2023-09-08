@@ -3,13 +3,13 @@ A curated list of tools with **built-in** support for right-to-left (RTL) langua
 
 # Contents
 - [awesome-rtl](#awesome-rtl)
+  - [Contributing](#contributing)
   - [Text and Code Editors](#text-and-code-editors)
   - [Messengers](#messengers)
   - [Social Networks](#social-networks)
   - [CSS Frameworks](#css-frameworks)
   - [UI Design Tools](#ui-design-tools)
   - [Version Controls](#version-controls)
-  - [Contributing](#contributing)
 
 ## Contributing
 
