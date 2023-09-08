@@ -3,7 +3,7 @@ A curated list of tools with **built-in** support for right-to-left (RTL) langua
 
 # Table of Contents
 - [awesome-rtl](#awesome-rtl)
-  - [Rules for Introducing RTL Support Tools](#rules-for-introducing-rtl-support-tools)
+  - [Contributing](#Contributing)
   - [Text and Code Editors](#text-and-code-editors)
   - [Messengers](#messengers)
   - [Social Networks](#social-networks)
@@ -11,10 +11,9 @@ A curated list of tools with **built-in** support for right-to-left (RTL) langua
   - [UI Design Tools](#ui-design-tools)
   - [Version Controls](#version-controls)
 
-## Rules for Introducing RTL Support Tools
+## Contributing
 
-- Only introduce tools that have **built-in RTL support** or **official plugins**. Unofficial plugins are not accepted due to the risk of discontinuation, which could result in the loss of RTL support.
-- Avoid introducing tools designed exclusively for local audiences in RTL language countries, unless they have international usability and include English language support.
+Please take a quick gander at the contribution guidelines first. Thanks to all [contributors](https://github.com/sir-kokabi/awesome-rtl/graphs/contributors); you rock!
 
 ## Text and Code Editors
 - [MarkText](https://www.marktext.cc/) - A simple and elegant markdown editor, available for Linux, macOS and Windows.
