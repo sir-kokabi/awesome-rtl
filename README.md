@@ -1,9 +1,9 @@
 # awesome-rtl
 A curated list of tools with **built-in** support for right-to-left (RTL) languages.
 
-# Table of Contents
+# Contents
 - [awesome-rtl](#awesome-rtl)
-  - [Contributing](#Contributing)
+  - [Contributing](#contributing)
   - [Text and Code Editors](#text-and-code-editors)
   - [Messengers](#messengers)
   - [Social Networks](#social-networks)
