@@ -31,6 +31,12 @@ Please take a quick gander at the [contribution](https://github.com/sir-kokabi/a
 ## CSS Frameworks
 - [Bootstrap](https://getbootstrap.com/) - Powerful, extensible, and feature-packed frontend toolkit.
 
+## Javascript Frameworks/Libraries
+- [FullCalendar](https://fullcalendar.io/) - Open-source JavaScript calendar.
+### React Frameworks/Libraries
+- [Material UI](https://mui.com/material-ui/getting-started/) - Library of React UI components that implements Google's Material Design.
+- [Mantine](https://mantine.dev/) - A fully featured React components library.
+
 ## UI Design Tools
 - [Figma](https://www.figma.com/) - Free, browser-based and collaborative design tool for user interfaces.
 - [Penpot](https://penpot.app/) - Free, open-source design and prototyping platform for product teams.
