@@ -8,6 +8,7 @@ A curated list of tools with **built-in** support for right-to-left (RTL) langua
   - [Messengers](#messengers)
   - [Social Networks](#social-networks)
   - [CSS Frameworks](#css-frameworks)
+  - [JavaScript Frameworks/Libraries](#javascript-frameworks-and-libraries)
   - [UI Design Tools](#ui-design-tools)
   - [Version Controls](#version-controls)
   - [Contributores](#contributores)
@@ -30,6 +31,12 @@ Please take a quick gander at the [contribution](https://github.com/sir-kokabi/a
 
 ## CSS Frameworks
 - [Bootstrap](https://getbootstrap.com/) - Powerful, extensible, and feature-packed frontend toolkit.
+
+## Javascript Frameworks and Libraries
+- [FullCalendar](https://fullcalendar.io/) - Open-source JavaScript calendar.
+### React Frameworks/Libraries
+- [Material UI](https://mui.com/material-ui/getting-started/) - Library of React UI components that implements Google's Material Design.
+- [Mantine](https://mantine.dev/) - A fully featured React components library.
 
 ## UI Design Tools
 - [Figma](https://www.figma.com/) - Free, browser-based and collaborative design tool for user interfaces.
