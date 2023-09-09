@@ -44,6 +44,7 @@ Please take a quick gander at the [contribution](https://github.com/sir-kokabi/a
 ## UI Design Tools
 - [Figma](https://www.figma.com/) - Free, browser-based and collaborative design tool for user interfaces.
 - [Penpot](https://penpot.app/) - Free, open-source design and prototyping platform for product teams.
+- [Lunacy](https://icons8.com/lunacy) - Free design software for Win, Mac, Linux
 
 ## Version Controls
 - [Github](https://github.com/) - web-based platform for version control using git.
