@@ -30,6 +30,7 @@ Please take a quick gander at the [contribution](https://github.com/sir-kokabi/a
 
 ## CSS Frameworks
 - [Bootstrap](https://getbootstrap.com/) - Powerful, extensible, and feature-packed frontend toolkit.
+- [Tailwind](https://tailwindcss.com/) - A utility-first CSS framework packed with classes that can be composed to build any design, directly in your markup.
 
 ## UI Design Tools
 - [Figma](https://www.figma.com/) - Free, browser-based and collaborative design tool for user interfaces.
