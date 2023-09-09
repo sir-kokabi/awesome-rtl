@@ -36,7 +36,8 @@ Please take a quick gander at the [contribution](https://github.com/sir-kokabi/a
 
 ## Javascript Frameworks and Libraries
 - [FullCalendar](https://fullcalendar.io/) - Open-source JavaScript calendar.
-### React Frameworks/Libraries
+
+## React Frameworks/Libraries
 - [Material UI](https://mui.com/material-ui/getting-started/) - Library of React UI components that implements Google's Material Design.
 - [Mantine](https://mantine.dev/) - A fully featured React components library.
 
