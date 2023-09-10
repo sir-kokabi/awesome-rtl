@@ -1,15 +1,15 @@
 # Awesome RTL [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of tools with **built-in** support for right-to-left (RTL) languages.
 
-# Contents
-  - [Text and Code Editors](#text-and-code-editors)
-  - [Messengers](#messengers)
-  - [Social Networks](#social-networks)
-  - [CSS Frameworks](#css-frameworks)
-  - [JavaScript Frameworks/Libraries](#javascript-frameworks-and-libraries)
-  - [React Frameworks/Libraries](#react-frameworkslibraries)
-  - [UI Design Tools](#ui-design-tools)
-  - [Version Controls](#version-controls)
+## Contents
+- [Text and Code Editors](#text-and-code-editors)
+- [Messengers](#messengers)
+- [Social Networks](#social-networks)
+- [CSS Frameworks](#css-frameworks)
+- [JavaScript Frameworks/Libraries](#javascript-frameworks-and-libraries)
+- [React Frameworks/Libraries](#react-frameworkslibraries)
+- [UI Design Tools](#ui-design-tools)
+- [Version Controls](#version-controls)
 
 ## Text and Code Editors
 - [MarkText](https://www.marktext.cc/) - A simple and elegant markdown editor, available for Linux, macOS and Windows.
@@ -27,7 +27,7 @@ A curated list of tools with **built-in** support for right-to-left (RTL) langua
 ## CSS Frameworks
 - [Bootstrap](https://getbootstrap.com/) - Powerful, extensible, and feature-packed frontend toolkit.
 - [Tailwind](https://tailwindcss.com/) - A utility-first CSS framework packed with classes that can be composed to build any design, directly in your markup.
-- [Bulma](https://bulma.io/) - open source framework that provides ready-to-use frontend components that you can easily combine to build responsive web interfaces.
+- [Bulma](https://bulma.io/) - Open source framework that provides ready-to-use frontend components that you can easily combine to build responsive web interfaces.
 
 ## JavaScript Frameworks and Libraries
 - [FullCalendar](https://fullcalendar.io/) - Open-source JavaScript calendar.
@@ -39,10 +39,10 @@ A curated list of tools with **built-in** support for right-to-left (RTL) langua
 ## UI Design Tools
 - [Figma](https://www.figma.com/) - Free, browser-based and collaborative design tool for user interfaces.
 - [Penpot](https://penpot.app/) - Free, open-source design and prototyping platform for product teams.
-- [Lunacy](https://icons8.com/lunacy) - Free design software for Win, Mac, Linux
+- [Lunacy](https://icons8.com/lunacy) - Free design software for Win, Mac, Linux.
 
 ## Version Controls
-- [Github](https://github.com/) - web-based platform for version control using git.
+- [GitHub](https://github.com/) - Web-based platform for version control using git.
 
 ## Contributing
 Please take a quick gander at the [contribution](https://github.com/sir-kokabi/awesome-rtl/blob/main/CONTRIBUTING.md) guidelines first. Thanks to all [contributors](https://github.com/sir-kokabi/awesome-rtl/graphs/contributors); you rock!
