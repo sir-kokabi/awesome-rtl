@@ -11,7 +11,6 @@ A curated list of tools with **built-in** support for right-to-left (RTL) langua
   - [JavaScript Frameworks/Libraries](#javascript-frameworks-and-libraries)
   - [UI Design Tools](#ui-design-tools)
   - [Version Controls](#version-controls)
-  - [Contributores](#contributores)
 
 ## Contributing
 
@@ -49,9 +48,3 @@ Please take a quick gander at the [contribution](https://github.com/sir-kokabi/a
 
 ## Version Controls
 - [Github](https://github.com/) - web-based platform for version control using git.
-
-## Contributores
-
-<a href="https://github.com/sir-kokabi/awesome-rtl/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=sir-kokabi/awesome-rtl" />
-</a>
