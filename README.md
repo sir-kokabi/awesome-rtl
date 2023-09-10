@@ -6,7 +6,7 @@ A curated list of tools with **built-in** support for right-to-left (RTL) langua
 - [Messengers](#messengers)
 - [Social Networks](#social-networks)
 - [CSS Frameworks](#css-frameworks)
-- [JavaScript Frameworks/Libraries](#javascript-frameworks-and-libraries)
+- [JavaScript Frameworks and Libraries](#javascript-frameworks-and-libraries)
 - [React Frameworks/Libraries](#react-frameworkslibraries)
 - [UI Design Tools](#ui-design-tools)
 - [Version Controls](#version-controls)
