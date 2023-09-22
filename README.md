@@ -44,5 +44,8 @@ A curated list of tools with **built-in** support for right-to-left (RTL) langua
 ## Version Controls
 - [GitHub](https://github.com/) - Web-based platform for version control using git.
 
+## Project Management & Team Collaboration
+- [Basecamp](https://basecamp.com/) - Real-time collaboration tool that helps teams stay in touch.
+
 ## Contributing
 Please take a quick gander at the [contribution](https://github.com/sir-kokabi/awesome-rtl/blob/main/CONTRIBUTING.md) guidelines first. Thanks to all [contributors](https://github.com/sir-kokabi/awesome-rtl/graphs/contributors); you rock!
