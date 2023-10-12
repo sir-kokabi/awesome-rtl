@@ -11,7 +11,6 @@ A curated list of tools with **built-in** support for right-to-left (RTL) langua
 - [UI Design Tools](#ui-design-tools)
 - [Version Controls](#version-controls)
 - [Project Management and Team Collaboration](#project-management-and-team-collaboration)
-- [Contributing](#contributing)
 
 ## Text and Code Editors
 - [MarkText](https://www.marktext.cc/) - A simple and elegant markdown editor, available for Linux, macOS and Windows.
