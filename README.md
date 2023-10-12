@@ -10,6 +10,8 @@ A curated list of tools with **built-in** support for right-to-left (RTL) langua
 - [React Frameworks/Libraries](#react-frameworkslibraries)
 - [UI Design Tools](#ui-design-tools)
 - [Version Controls](#version-controls)
+- [Project Management and Team Collaboration](project-management-and-team-collaboration)
+- [Contributing](#contributing)
 
 ## Text and Code Editors
 - [MarkText](https://www.marktext.cc/) - A simple and elegant markdown editor, available for Linux, macOS and Windows.
@@ -44,7 +46,7 @@ A curated list of tools with **built-in** support for right-to-left (RTL) langua
 ## Version Controls
 - [GitHub](https://github.com/) - Web-based platform for version control using git.
 
-## Project Management & Team Collaboration
+## Project Management and Team Collaboration
 - [Basecamp](https://basecamp.com/) - Real-time collaboration tool that helps teams stay in touch.
 
 ## Contributing
