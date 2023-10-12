@@ -10,7 +10,7 @@ A curated list of tools with **built-in** support for right-to-left (RTL) langua
 - [React Frameworks/Libraries](#react-frameworkslibraries)
 - [UI Design Tools](#ui-design-tools)
 - [Version Controls](#version-controls)
-- [Project Management and Team Collaboration](project-management-and-team-collaboration)
+- [Project Management and Team Collaboration](#project-management-and-team-collaboration)
 - [Contributing](#contributing)
 
 ## Text and Code Editors
