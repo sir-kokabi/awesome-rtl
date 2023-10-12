@@ -1,5 +1,5 @@
 # Awesome RTL [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A curated list of tools with **built-in** support for right-to-left (RTL) languages.
+> A curated list of tools with **built-in** support for right-to-left (RTL) languages.
 
 ## Contents
 - [Text and Code Editors](#text-and-code-editors)
